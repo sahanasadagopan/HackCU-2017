@@ -1,3 +1,6 @@
+<h2>The Project is incomplete as we couldn't solve our bot's control issues and couldn't make our bot's servo and DC-motors move in a sync.</h2>
+
+So, what we have coded so far on integrating Amazon Echo and fetching the decoded direction from AWS on our local system is uploaded here.
 1) Command.py is python file which queries DynamoDB on AWS and print changing direction.
 2) NewWorkingLambdaFunc is the lambda function code which needs to be there on AWS (not to be run on local system)
 3) "Intent Schema" on developer.amazon.com:
