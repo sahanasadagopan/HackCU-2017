@@ -15,8 +15,8 @@ def get_move():
     #dynamodb = boto3.client('dynamodb', region_name='us-east-1', aws_access_key_id='AKIAJMHJ2TULWSOIOMVQ', aws_secret_access_key='yYUv1YPFZbCF7Wej8ZcC')
     
     session = boto3.Session(
-            aws_access_key_id='AKIAJMHJ2TULWSOIOMVQ',
-            aws_secret_access_key='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',
+            aws_access_key_id='XXXXXX',
+            aws_secret_access_key='XXXXXX',
             region_name='us-east-1',
         )
     dynamodb = session.resource('dynamodb')
