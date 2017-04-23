@@ -1,4 +1,6 @@
-<h2>The Project is incomplete as we couldn't solve our bot's control issues and couldn't make our bot's servo and DC-motors move in a sync.</h2>
+<h1>Voice Controlled Bot Car using Amazon Echo</h1>
+
+<h4>(This Project is incomplete as we couldn't solve our bot's control issues and couldn't make our bot's servo and DC-motors move in a sync.)</h4>
 
 So, what we have coded so far on integrating Amazon Echo and fetching the decoded direction from AWS on our local system is uploaded here.
 1) Command.py is python file which queries DynamoDB on AWS and print changing direction.
